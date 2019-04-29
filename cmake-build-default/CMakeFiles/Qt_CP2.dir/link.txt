@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/Qt_CP2.dir/Qt_CP2_autogen/mocs_compilation.cpp.o CMakeFiles/Qt_CP2.dir/main.cpp.o CMakeFiles/Qt_CP2.dir/diagram.cpp.o CMakeFiles/Qt_CP2.dir/table.cpp.o CMakeFiles/Qt_CP2.dir/mainwindow.cpp.o  -o Qt_CP2 /usr/lib/libQt5PrintSupport.so.5.12.3 /usr/lib/libQt5Widgets.so.5.12.3 /usr/lib/libQt5Gui.so.5.12.3 /usr/lib/libQt5Core.so.5.12.3 

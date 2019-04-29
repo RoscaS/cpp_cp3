@@ -1,0 +1,4 @@
+/home/sol/Code/Cpp/Qt_CP2/cmake-build-default/CMakeFiles/rebuild_cache.dir
+/home/sol/Code/Cpp/Qt_CP2/cmake-build-default/CMakeFiles/Qt_CP2.dir
+/home/sol/Code/Cpp/Qt_CP2/cmake-build-default/CMakeFiles/edit_cache.dir
+/home/sol/Code/Cpp/Qt_CP2/cmake-build-default/CMakeFiles/Qt_CP2_autogen.dir
